@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.67759c53.css",
+    "main.js": "/static/js/main.805e3bd3.js",
+    "static/media/lii.png": "/static/media/lii.b704a3c0a0e006bd6e99.png",
+    "static/media/gymsite.jpg": "/static/media/gymsite.62e54a799af2ceb20264.jpg",
+    "static/media/nexter.jpg": "/static/media/nexter.574439b83e3d4852739c.jpg",
+    "static/media/calculator.jpg": "/static/media/calculator.9a8fbb27df651267ffd2.jpg",
+    "static/media/todo.jpg": "/static/media/todo.5a5e01456d4acb38c1de.jpg",
+    "static/media/flames.jpg": "/static/media/flames.4e9bf168533b01803e05.jpg",
+    "static/media/cleaningsite.jpg": "/static/media/cleaningsite.59af74662c239587cfa0.jpg",
+    "static/media/arturo-trial.bold-italic.ttf": "/static/media/arturo-trial.bold-italic.c5edeb83e12f8f34dbd0.ttf",
+    "static/media/liveBatteryIndicator.jpg": "/static/media/liveBatteryIndicator.bf9dbebb00ce70707262.jpg",
+    "static/media/College.png": "/static/media/College.9d0121dc6c2664df0bbb.png",
+    "static/media/logo2.png": "/static/media/logo2.d8141178ed85a339c1fe.png",
+    "static/media/Adlery-Pro.ttf": "/static/media/Adlery-Pro.3794db69593a478d1ff1.ttf",
+    "static/media/school.png": "/static/media/school.06b0969b8ed12498d387.png",
+    "static/media/programer.png": "/static/media/programer.15e64b11ab64f4a49e41.png",
+    "index.html": "/index.html",
+    "main.67759c53.css.map": "/static/css/main.67759c53.css.map",
+    "main.805e3bd3.js.map": "/static/js/main.805e3bd3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67759c53.css",
+    "static/js/main.805e3bd3.js"
+  ]
+}
